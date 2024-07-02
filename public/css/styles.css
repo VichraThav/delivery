@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa; /* Light gray background for the entire page */
+}
+
+.container {
+    margin-top: 20px; /* Adds margin to the top of the container */
+}
+
+.card {
+    border-radius: 0.5rem; /* Rounded corners for the card */
+}
+
+.card-body {
+    background-color: #ffffff; /* White background for the card body */
+    border: 1px solid #dee2e6; /* Light border around the card */
+}
+
+.form-control {
+    border-radius: 0.25rem; /* Rounded corners for input fields */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Custom blue for Save button */
+    border-color: #007bff; /* Custom blue for Save button */
+}
+
+.btn-warning {
+    background-color: #ffc107; /* Custom yellow for Update button */
+    border-color: #ffc107; /* Custom yellow for Update button */
+}
+
+.btn-danger {
+    background-color: #dc3545; /* Custom red for Delete button */
+    border-color: #dc3545; /* Custom red for Delete button */
+}
+
+.btn-secondary {
+    background-color: #6c757d; /* Custom gray for Back to List button */
+    border-color: #6c757d; /* Custom gray for Back to List button */
+}
+
+h1 {
+    color: #333; /* Darker text color for headers */
+}
